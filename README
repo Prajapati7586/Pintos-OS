@@ -3,4 +3,4 @@
 Welcome to Pintos. Pintos is a simple operating system framework for the 80x86 architecture. It supports kernel threads, loading and running user programs, and a file system, but it implements all of these in a very simple way.
 
 [Installation Guide1](https://piazza.com/class_profile/get_resource/itgbdzpqj6417o/iuzt04qzagh40p)
-[Installation Guide2](https://piazza.com/class_profile/get_resource/itgbdzpqj6417o/iuzt04qzagh40p)
+[Installation Guide2](https://pintosiiith.wordpress.com/2012/09/13/install-pintos-with-qemu/)
